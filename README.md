@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe Zhou Yubin</h1>
 <h3 align="center">A passionate Full Stack developer from Singapore</h3>
+<h3 align="center">SAP BTP Extension Suite Certified</h3>
 
-- 🔭 I’m currently working on **SAP BTP**
+- 🔭 I’m currently working on **SAP BTP Integration Suite**
 
 - 📫 How to reach me **zhou.yubin.joe@gmail.com**
 
